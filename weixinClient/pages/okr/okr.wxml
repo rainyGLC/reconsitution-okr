@@ -1,0 +1,9 @@
+<view class="okr-container">
+  <navigator class="addOkr" url="/pages/okr_create/okr_create">添加okr</navigator>
+  <view class="okrList">
+    <view class="okrItem">
+      <view class="okrItem-title">添加的目标</view>
+      <view class="create-time">创建时间:</view>
+    </view>
+  </view>
+</view>

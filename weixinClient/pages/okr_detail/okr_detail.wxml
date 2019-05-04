@@ -1,0 +1,27 @@
+<view class='okrDetail-container'>
+  <view class="okrshow">
+
+    <view class="objective-list">
+      <view class="objective-tilte">目标题目</view>
+      <view class="create-time">创建时间:</view>
+      <view class="finished-time">完成时间:</view>
+    </view>
+
+    <view class="keyresult-list">
+
+      <view class="keyresult-item" >
+        <view class="keyresult-content">
+          <view class="keyresult-title">keyresult题目</view>
+          <view class="keyresult-completed">{{item.status ? '已完成' : '点击标记'}}
+          </view>
+        </view>
+
+          <view class="todo-list">
+            <view class="todo-item">每日任务</view>
+          </view>    
+      </view>
+    </view>
+
+  </view>
+
+</view>

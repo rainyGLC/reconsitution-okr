@@ -1,0 +1,12 @@
+<view class="todo-container">
+  <view class="todo-container">
+    <view class="todo-content">
+      <text class="todo-tilte">你必须做你不得不做的事</text>
+      <input class="entry-input"  type="text" placeholder="请输入你需要完成的事情"/>
+    </view>
+    <view class="todo-list">
+      <view class="todo-item">目标:目标一</view>
+      <view class="todo-time">创建时间:2019/05/02</view>
+    </view>
+  </view>
+</view>

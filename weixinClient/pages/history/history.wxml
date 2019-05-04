@@ -1,0 +1,12 @@
+<view class="history-container">
+  <view class="history-content">
+    <text class="todo-title">已完成的Todos</text>
+    <view class="todo-list">
+      <view class="todo-item">
+        <text class="add-title">已完成的任务</text>
+        <view class="create_time">创建时间：</view>
+        <view class="create_time">完成时间：</view>
+      </view>
+    </view>
+  </view>
+</view>

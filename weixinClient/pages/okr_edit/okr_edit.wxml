@@ -1,0 +1,21 @@
+<view class="okrEdit-container">
+  <view class="okrEdit-content">
+    <text class="objective-dosc">Objective目标：</text>
+
+    <view class="objective-container">
+      <input class="objective-title" placeholder="请输入你的目标" />
+      <view class="objective-edit">+</view>
+    </view>
+    <view class="keyresult-list">
+      <text class="objective-dosc">Keyresult成果：</text>
+      <view class="keyresult-item">
+        <input class="objective-title" placeholder="请输入你的成就" />
+        <view class="objective-edit">-</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="newAdd">
+    <button class="buttonAdd">保存</button>
+  </view>
+</view>
